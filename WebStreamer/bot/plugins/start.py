@@ -217,7 +217,7 @@ async def help_handler(bot, message):
         await db.add_user(message.from_user.id)
         await bot.send_message(
             Var.BIN_CHANNEL,
-            f"**Nᴇᴡ Usᴇʀ Jᴏɪɴᴇᴅ **\n\n__Mʏ Nᴇᴡ Fʀɪᴇɴᴅ__ [{message.from_user.first_name}](tg://user?id={message.from_user.id}) __Started Your Bot !!__"
+            f"**New User Joined **\n\n__My New Friend__ [{message.from_user.first_name}](tg://user?id={message.from_user.id}) __Started Your Bot !!__"
         )
     if Var.UPDATES_CHANNEL is not None:
         try:
@@ -225,7 +225,7 @@ async def help_handler(bot, message):
             if user.status == "kicked":
                 await bot.send_message(
                     chat_id=message.chat.id,
-                    text="<i>Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ. Cᴏɴᴛᴀᴄᴛ ᴛʜᴇ Dᴇᴠᴇʟᴏᴘᴇʀ</i>",
+                    text="<i>Sorry Sir, You Are Banned To Use Me. Contact The Developer\n\n @mhd_thanzeer They Will Help You</i>",
                     parse_mode="HTML",
                     disable_web_page_preview=True
                 )
@@ -233,10 +233,10 @@ async def help_handler(bot, message):
         except UserNotParticipant:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="**Pʟᴇᴀsᴇ Jᴏɪɴ Mʏ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ᴛᴏ ᴜsᴇ ᴛʜɪs Bᴏᴛ!**\n\n__Dᴜᴇ ᴛᴏ Oᴠᴇʀʟᴏᴀᴅ, Oɴʟʏ Cʜᴀɴɴᴇʟ Sᴜʙsᴄʀɪʙᴇʀs ᴄᴀɴ ᴜsᴇ ᴛʜᴇ Bᴏᴛ!__",
+                text="**Join My Group To Use This Bot !**\n\n__Due To Overload, Only Join My Group To Use Me!__",
                 reply_markup=InlineKeyboardMarkup(
                     [[
-                        InlineKeyboardButton("🤖 Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                        InlineKeyboardButton("⭐️ JOIN MY GROUP ⭐️", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                         ]]
                 ),
                 parse_mode="markdown"
@@ -245,7 +245,7 @@ async def help_handler(bot, message):
         except Exception:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="__Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ__ [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://t.me/Avishkarpatil).",
+                text="__Something Went Worng..!! Contact Me __ [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](http://t.me/mhd_thanzeer)",
                 parse_mode="markdown",
                 disable_web_page_preview=True)
             return
