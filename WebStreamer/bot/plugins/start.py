@@ -28,8 +28,8 @@ HELP_TEXT = """<b>📁 Send Me Any File Or Media From Telegram..!!\n\n
 🔗 I Will Provide External Direct Download Link..!!\n\n
 ➕ Add Me In Your Channel For Direct Download Links In Button..!!\n\n
 ♻️ Generate Link Is Permanent\n
-⏳ With Fastest Speed 47mb/s\n\n
-👨‍🔬 This Bot Owner Is : [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)</b>"""
+⏳ With Fastest Speed 37mb/s\n\n
+👨‍🔬 This Bot Owner Is : <a href='https://telegram.me/mhd_thanzeer'>𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>"""
 
 ABOUT_TEXT = """
 <b>🍃 Bot Name : File 2 Link Bot</b>\n
