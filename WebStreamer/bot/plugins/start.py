@@ -32,12 +32,11 @@ HELP_TEXT = """<b>📁 Send Me Any File Or Media From Telegram..!!\n\n
 👨‍🔬 This Bot Owner Is : [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)</b>"""
 
 ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
-<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/AvishkarPatil'>3.0.1</a></b>\n
-<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/avipatilpro/FileStreamBot'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔸GitHub : <a href='https://GitHub.com/avipatilpro'>Fᴏʟʟᴏᴡ</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Avishkarpatil'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
-<b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/AvishkarPatil'>[ 11-ᴊᴜʟʏ-21 ] 04:35 PM</a></b>"""
+<b>🍃 Bot Name : File 2 Link Bot</b>\n
+<b>🔸Version : <a href='https://telegram.me/mhd_thanzeer'>3.6.8</a></b>\n
+<b>🔸Instagram : <a href='https://www.instagram.com/mhdthanzeer'>Follow</a></b>\n
+<b>🔹Developer : <a href='https://telegram.me/mhd_thanzeer'>𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>\n
+<b>🔸Last Update : <a href='https://telegram.me/mhd_thanzeer'> 26 - September - 2021 || 09:00 PM</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
