@@ -10,17 +10,17 @@ from pyrogram.errors import UserNotParticipant
 db = Database(Var.DATABASE_URL, Var.SESSION_NAME)
 
 START_TEXT = """
-<b>😇 Hello Buddy {}\n
+<b>😇 Hello Buddy {}
 
-📁 Send Me Any File Or Media From Telegram..!!\n\n
+📁 Send Me Any File Or Media From Telegram..!!
 
-🔗 I Will Provide External Direct Download Link..!!\n\n
+🔗 I Will Provide External Direct Download Link..!!
 
-➕ Add Me In Your Channel For Direct Download Links In Button..!!\n\n
+➕ Add Me In Your Channel For Direct Download Links In Button..!!
 
-♻️ Generator Link Is Permanent\n
+♻️ Generator Link Is Permanent
 
-⏳With Fastest Speee 47mb/s\n\n
+⏳With Fastest Speee 47mb/s\n
 
 👨‍🔬 This Bot Owner Is : <a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>"""
 
