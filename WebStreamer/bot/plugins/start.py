@@ -22,7 +22,7 @@ START_TEXT = """
 
 ⏳With Fastest Speee 47mb/s\n\n
 
-👨‍🔬 This Bot Owner Is : [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)</b>"""
+👨‍🔬 This Bot Owner Is : <a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>"""
 
 HELP_TEXT = """<b>📁 Send Me Any File Or Media From Telegram..!!\n\n
 🔗 I Will Provide External Direct Download Link..!!\n\n
