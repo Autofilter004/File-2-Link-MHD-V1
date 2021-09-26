@@ -18,9 +18,9 @@ START_TEXT = """
 
 ➕ Add Me In Your Channel For Direct Download Links In Button..!!
 
-♻️ Generator Link Is Permanent
+♻️ Generate Link Is Permanent 
 
-⏳With Fastest Speee 47mb/s\n
+⏳ With Fastest Speed Like 37mb/s\n
 
 👨‍🔬 This Bot Owner Is : <a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>"""
 
