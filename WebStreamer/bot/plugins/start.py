@@ -34,7 +34,6 @@ HELP_TEXT = """<b>📁 Send Me Any File Or Media From Telegram..!!\n\n
 ABOUT_TEXT = """
 <b>🍃 Bot Name : File 2 Link Bot</b>\n
 <b>🔸Version : <a href='https://telegram.me/mhd_thanzeer'>3.6.8</a></b>\n
-<b>🔸Instagram : <a href='https://www.instagram.com/mhd__thanzeer'>Follow</a></b>\n
 <b>🔹Developer : <a href='https://telegram.me/mhd_thanzeer'>𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>\n
 <b>🔸Last Update : <a href='https://telegram.me/mhd_thanzeer'> 26 - September - 2021 || 09:00 PM</a></b>"""
 
