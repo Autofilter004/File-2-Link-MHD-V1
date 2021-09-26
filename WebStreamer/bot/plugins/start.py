@@ -138,7 +138,7 @@ async def start(b, m):
                 if user.status == "kicked":
                     await b.send_message(
                         chat_id=m.chat.id,
-                        text="**Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ. Qᴜɪᴄᴋʟʏ ᴄᴏɴᴛᴀᴄᴛ** @Avishkarpatil",
+                        text="Sorry Sir, You Are Banned To Use Me. Contact The Developer\n\n @mhd_thanzeer **They Will Help You**",
                         parse_mode="markdown",
                         disable_web_page_preview=True
                     )
