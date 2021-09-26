@@ -71,11 +71,11 @@ async def private_receive_handler(c: Client, m: Message):
             file_name = f"{m.audio.file_name}"
 
         msg_text ="""
-<b><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></b>\n
-<b>📝 File Name :</b> <b>{}</b>\n
-<b>📨 File Size :</b> <b>{}</b>\n
+<b><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 ✅️</u></b>\n
+<b>📝 File Name :</b> {}\n
+<b>📨 File Size :</b> {}\n
 <b>📥 Download Link ➪ :</b> <code>{}</code>\n
-<b>⭕️ Note : Link Expired in Bot Off Time </b>\n
+<i>⭕️ Note : Link Expired in Bot Off Time </i>\n
 <b>👨‍🔬 Developer : <a href='http://t.me/mhd_thanzeer'>𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>
 """
 
