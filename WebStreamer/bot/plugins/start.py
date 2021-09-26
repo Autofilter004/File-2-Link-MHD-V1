@@ -20,8 +20,8 @@ START_TEXT = """
 HELP_TEXT = """<b>📁 Send Me Any File Or Media From Telegram..!!\n\n
 🔗 I Will Provide External Direct Download Link..!!\n\n
 ➕ Add Me In Your Channel For Direct Download Links In Button..!!\n\n
-♻️ Generator Link Is Permanent\n
-⏳With Fastest Speee 47mb/s\n\n
+♻️ Generate Link Is Permanent\n
+⏳ With Fastest Speed 47mb/s\n\n
 👨‍🔬 This Bot Owner Is : [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)</b>"""
 
 ABOUT_TEXT = """
